@@ -1,0 +1,6 @@
+<div class="container">
+    <a href="/players/new" class="button">Create Player Account</a>
+    <a href="/players" class="button">List All Players</a>
+
+    
+</div>
